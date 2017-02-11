@@ -38,16 +38,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Imperial College Business School (Jun '14 - Aug '14)
 
-•	Strategic Marketing summer school.
-•	Innovation and Entrepreneurship summer school.
+- Strategic Marketing summer school.
+- Innovation and Entrepreneurship summer school.
 
 ####	University College London	(Sep '09 - Jun '12)
 
-•	BEng Chemical Engineering; 1st Class Honours.
-•	Thesis involved the design, modelling and optimisation of a theoretical full-scale biodiesel plant.
+- BEng Chemical Engineering; 1st Class Honours.
+- Thesis involved the design, modelling and optimisation of a theoretical full-scale biodiesel plant.
 
-#### David Game College	(Sep'07 - Jun' 09)
-•	A levels: Mathematics (A), Further Mathematics AS (A), Chemistry (B), Physics (A), Arabic (A)
+#### David Game College	(Sep '07 - Jun' 09)
+- A levels: Mathematics (A), Further Mathematics AS (A), Chemistry (B), Physics (A), Arabic (A)
 
 
 - Subject, any specialisms
