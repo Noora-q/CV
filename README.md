@@ -1,10 +1,10 @@
 ## Noora Al Qasimi
 
-I am a curious person who loves to learn new things. Before starting at MA, I taught myself the basics of Xcode and developed a simple card game. The feelings of joy and the gratification I felt when I completed building the game was what truly propelled me in the direction of coding.
+I am a curious person who loves to learn new things. Before starting at Makers Academy (MA), I taught myself the basics of Xcode and developed a simple card game. The feelings of joy and the gratification I felt when I completed building the game was what truly propelled me in the direction of coding.
 
-Having come from an engineering background, I've always had a technical mind and I realised that I have a passion for problem-solving, no matter the kind of problem. That, combined with my interest in coding led me to seek out a chance to improve myself at Makers Academy.
+Having come from an engineering background, I've always had a technical mind and I realised that I have a passion for problem-solving, no matter the kind of problem. That, combined with my interest in coding led me to seek out a chance to improve myself technically at Makers Academy.
 
-Now, I am looking for a junior developer role in an energetic and inspiring environment where I can offer what I've learned at MA and continue to build upon my skills.
+After completing this intensive course at MA, I will be looking for a junior developer role in an energetic and inspiring environment where I can offer what I've learned at MA and continue to build upon my skills.
 
 ## Skills
 
