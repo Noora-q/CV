@@ -1,10 +1,8 @@
 ## Noora Al Qasimi
 
-I am a curious person who loves to learn new things. Before starting at Makers Academy (MA), I taught myself the basics of Xcode and developed a simple card game. The feelings of joy and the gratification I felt when I completed building the game was what truly propelled me in the direction of coding.
+I am a curious person who is passionate about learning new things. Before starting at Makers Academy (MA), I taught myself the basics of Xcode and developed a simple card game. That feeling of gratification I had when I completed building the game was what truly propelled me in the direction of coding. Check out my blog where I talk about my experience at MA at https://medium.com/@n.k.alqasimi
 
-Having come from an engineering background, I've always had a technical mind and I realised that I have a passion for problem-solving, no matter the kind of problem. That, combined with my interest in coding led me to seek out a chance to improve myself technically at Makers Academy.
-
-After completing this intensive course at MA, I will be looking for a junior developer role in an energetic and inspiring environment where I can offer what I've learned at MA and continue to build upon my skills.
+Having come from an engineering background, I've always had a technical mind and I realised that I have a passion for problem-solving, no matter the kind of problem. That, combined with my interest in coding led me to seek out a chance to improve myself technically at Makers Academy. After completing this intensive course at MA, I will be looking for a junior developer role in an energetic and inspiring environment where I can offer my skills with all the best practices I've learned at MA and continue to learn and build upon my skills.
 
 ## Skills
 
@@ -28,9 +26,7 @@ Overall, my experience with coding has shown me the importance of attention to d
 
 #### Makers Academy (Feb '16 - May '16)
 
- Check out my blog: https://medium.com/@n.k.alqasimi
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
+- 12 week intensive bootcamp
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, Angular.js
@@ -38,23 +34,25 @@ Overall, my experience with coding has shown me the importance of attention to d
 
 #### Imperial College Business School (Jun '14 - Aug '14)
 
-- Strategic Marketing summer school.
-- Innovation and Entrepreneurship summer school.
+- Strategic Marketing summer school
+- Innovation and Entrepreneurship summer school
 
 ####	University College London	(Sep '09 - Jun '12)
 
-- BEng Chemical Engineering; 1st Class Honours.
-- Thesis involved the design, modelling and optimisation of a theoretical full-scale biodiesel plant.
+- BEng Chemical Engineering; 1st Class Honours
+- Thesis involved the design, modelling and optimisation of a theoretical full-scale biodiesel plant
 
 #### David Game College	(Sep '07 - Jun' 09)
 - A levels: Mathematics (A), Further Mathematics AS (A), Chemistry (B), Physics (A), Arabic (A)
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Innovation Forum** (start_date to end_date)    
+*Finance director* at ICIF (Imperial College Innovation Forum). 
+- Keeping track of finances
+- Allocating costs for events
+- Event organisation
+
 
 ## Hobbies and Interests
 
