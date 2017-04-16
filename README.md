@@ -27,8 +27,9 @@ Overall, my experience with coding has shown me the importance of attention to d
 #### Makers Academy (Feb '16 - May '16)
 
 - 12 week intensive bootcamp
+- Learning to learn
+- Using only best practices
 - OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
