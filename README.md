@@ -12,7 +12,7 @@ My degree in Chemical Engineering involved complex problem-solving, and I learne
 
 #### Team player
 
-I'm confident in working on my own but I also greatly appreciate the value of working as part of a team. During my practice project week at MA, my group and I decided to build an arcade racing game in JavaScript. From the start, we maintained a common headspace and split off into pairs when approriate and to save time. Given we had only three and a half days, we reached MVP within a day and it was because we communicated our ideas well and worked effectively as a team that were able to complete the game on time along with extensive testing. After presenting, we knew that our coach was truly proud of the end result and how we achieved it.
+I'm confident in working on my own but I also greatly appreciate the value of working as part of a team. During my practice project week at MA, my group and I decided to build an arcade racing game in JavaScript. From the start, we maintained a common headspace and split off into pairs when appropriate and to save time. Given we had only three and a half days, we reached MVP within a day and it was because we communicated our ideas well and worked effectively as a team that were able to complete the game on time along with extensive testing. After presenting, we knew that our coach was truly proud of the end result and how we achieved it.
 
 
 #### Attention to detail
