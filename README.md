@@ -17,20 +17,20 @@ My degree in Chemical Engineering involved complex problems, where I learned how
 #### Team player
 
 I'm confident in working on my own but I also greatly appreciate the value of working as part of a team. During my practice project week at MA, my group and I decided to build an arcade racing game in JavaScript.
-•	Maintained a common headspace via regular stand-ups and retros
-•	Split off into pairs when appropriate to maximise efficiency
-•	Communicated my ideas effectively 
-•	Worked well as a team because of giving/receiving constant feedback 
-•	Completed the game on time along with extensive testing
-•	Our coach was impressed by the end result and how we achieved a extensively tested functional super fun obstacle-dodging car racing game
+-	Maintained a common headspace via regular stand-ups and retros
+-	Split off into pairs when appropriate to maximise efficiency
+-	Communicated my ideas effectively 
+- Worked well as a team because of giving/receiving constant feedback 
+-	Completed the game on time along with extensive testing
+-	Our coach was impressed by the end result and how we achieved a extensively tested functional super fun obstacle-dodging car racing game
 
 #### Attention to detail
 
 For my final project at MA, I took part in building an Alexa skill for the Amazon Echo. Being a completely new technology with a lack of extensive documentation, we faced some struggles along the way.
-•	Faced a problem with Alexa’s tone and pronunciation of several phrases 
-•	Had to manipulate speech output through the use of SSML
-•	Saw the consequences of the smallest change
-•	It was a success as Alexa ended up saying things the way we wanted
+-	Faced a problem with Alexa’s tone and pronunciation of several phrases 
+-	Had to manipulate speech output through the use of SSML
+-	Saw the consequences of the smallest change
+-	It was a success as Alexa ended up saying things the way we wanted
 
 #### Additional Skills
 - Languages: Arabic (native), English (fluent), French (intermediate).
@@ -63,9 +63,9 @@ For my final project at MA, I took part in building an Alexa skill for the Amazo
 
 ## Experience
 
-**Innovation Forum (Dec '14 - Dec '15)**
+### **Innovation Forum (Dec '14 - Dec '15)**
 The Innovation Forum aims to bridge the gap between academia, industry and the public sector to accelerate the speed of technology adoption for the benefit of the wider society. 
-*Finance director* at ICIF (Imperial College Innovation Forum), duties involved:
+#### *Finance director* at ICIF (Imperial College Innovation Forum), duties involved:
 - Contacting potential speakers to present at the events
 - Organising venues for events of about 100 - 150 people
 - Allocating costs for events - food, drinks for attendees and gifts for speakers
