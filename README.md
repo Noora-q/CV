@@ -8,16 +8,29 @@ Having come from an engineering background, I've always had a technical mind and
 
 #### Analytical thinker
 
-My degree in Chemical Engineering involved complex problem-solving, and I learned how to break large problems into smaller bits, tackling each one at a time. As part of my third year project, I designed a theoretical Biodiesel production plant, which involved a variety of tasks. These included researching suitable raw materials, performing analysis of the plant and its components as well as using optimisation software.
+My degree in Chemical Engineering involved complex problems, where I learned how to break large problems into smaller ones. There, I established a solid approach to problem solving.
+•	Third year project - designed a theoretical Biodiesel production plant
+•	Investigated suitable raw materials
+•	Performed in depth analysis of the plant and its components
+•	Improved plant design and production yield based on the knowledge gained and the use of optimisation software
 
 #### Team player
 
-I'm confident in working on my own but I also greatly appreciate the value of working as part of a team. During my practice project week at MA, my group and I decided to build an arcade racing game in JavaScript. From the start, we maintained a common headspace and split off into pairs when appropriate and to save time. Given we had only three and a half days, we reached MVP within a day and it was because we communicated our ideas well and worked effectively as a team that were able to complete the game on time along with extensive testing. After presenting, we knew that our coach was truly proud of the end result and how we achieved it.
-
+I'm confident in working on my own but I also greatly appreciate the value of working as part of a team. During my practice project week at MA, my group and I decided to build an arcade racing game in JavaScript.
+•	Maintained a common headspace via regular stand-ups and retros
+•	Split off into pairs when appropriate to maximise efficiency
+•	Communicated my ideas effectively 
+•	Worked well as a team because of giving/receiving constant feedback 
+•	Completed the game on time along with extensive testing
+•	Our coach was impressed by the end result and how we achieved a extensively tested functional super fun obstacle-dodging car racing game
 
 #### Attention to detail
 
-Overall, my experience with coding has shown me the importance of attention to detail. It only takes a single character in order for your code to result in an error. It is a great advantage to have an observant eye and to be able to spot the effect of the smallest changes on the final result, as often the smallest mistakes can lead to the largest consequences.
+For my final project at MA, I took part in building an Alexa skill for the Amazon Echo. Being a completely new technology with a lack of extensive documentation, we faced some struggles along the way.
+•	Faced a problem with Alexa’s tone and pronunciation of several phrases 
+•	Had to manipulate speech output through the use of SSML
+•	Saw the consequences of the smallest change
+•	It was a success as Alexa ended up saying things the way we wanted
 
 #### Additional Skills
 - Languages: Arabic (native), English (fluent), French (intermediate).
@@ -30,8 +43,8 @@ Overall, my experience with coding has shown me the importance of attention to d
 - Learning to learn
 - Using only best practices
 - OOP, TDD, SOLID, MVC, DDD
-- Ruby, Rails, Javascript, Node.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript, Node.js, Alexa Skills Kit
+- Rspec, Jasmine, Mocha, Chai, Sinon
 
 #### Imperial College Business School (Jun '14 - Aug '14)
 - Strategic Marketing summer school
@@ -57,9 +70,6 @@ The Innovation Forum aims to bridge the gap between academia, industry and the p
 - Organising venues for events of about 100 - 150 people
 - Allocating costs for events - food, drinks for attendees and gifts for speakers
 - Keeping track of finances for all events
-
-
-
 
 ## Hobbies and Interests
 - Travelling
