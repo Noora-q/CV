@@ -58,7 +58,7 @@ For my final project at MA, I took part in building an Alexa skill for the Amazo
 - BEng Chemical Engineering, 1st Class Honours
 - Thesis involved the design, modelling and optimisation of a theoretical full-scale biodiesel plant
 
-#### David Game College	(Sep '07 - Jun' 09)
+#### David Game College	(Sep '07 - Jun '09)
 - A levels: Mathematics (A), Further Mathematics AS (A), Chemistry (B), Physics (A), Arabic (A)
 
 ## Experience
