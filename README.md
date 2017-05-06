@@ -9,10 +9,10 @@ Having come from an engineering background, I've always had a technical mind and
 #### Analytical thinker
 
 My degree in Chemical Engineering involved complex problems, where I learned how to break large problems into smaller ones. There, I established a solid approach to problem solving.
-•	Third year project - designed a theoretical Biodiesel production plant
-•	Investigated suitable raw materials
-•	Performed in depth analysis of the plant and its components
-•	Improved plant design and production yield based on the knowledge gained and the use of optimisation software
+-	Third year project - designed a theoretical Biodiesel production plant
+-	Investigated suitable raw materials
+-	Performed in depth analysis of the plant and its components
+-	Improved plant design and production yield based on the knowledge gained and the use of optimisation software
 
 #### Team player
 
