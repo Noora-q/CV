@@ -38,7 +38,7 @@ For my final project at MA, I took part in building an Alexa skill for the Amazo
 
 ## Education
 
-#### Makers Academy (Feb '16 - May '16)
+#### Makers Academy (Feb '17 - May '17)
 - 12 week intensive bootcamp
 - Learning to learn
 - Using only best practices
