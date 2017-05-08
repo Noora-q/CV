@@ -40,7 +40,7 @@ For my final project at MA, I took part in building an Alexa skill for the Amazo
 
 Name | Description | Technologies
 ---- | ----------- | ------------
-[Quizbot](https://github.com/Noora-q/quizbot-alexa) | A maths quiz app for the Amazon echo and collaborated witha company by sending the quiz results to their API for progress tracking. | JavaScript, Node.js, AWS Lambda, Bespoken Tools, Alexa SDK, Mocha, Chai, Sinon, Request
+[Quizbot](https://github.com/Noora-q/quizbot-alexa) | A Maths quiz app for the Amazon echo and collaborated witha company by sending the quiz results to their API for progress tracking. | JavaScript, Node.js, AWS Lambda, Bespoken Tools, Alexa SDK, Mocha, Chai, Sinon, Request
 [EXHAUST-ED ](https://github.com/Noora-q/EXHAUST-ED) | A racing, obstacle-dodging arcade game. | JavaScript, Jasmin, JQuery, HTML 5, CSS, Adobe Photoshop
 
 ## Education
