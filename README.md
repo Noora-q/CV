@@ -52,7 +52,7 @@ Name | Description | Technologies
 - Pair programming
 - Agile practice
 - OOP, TDD, SOLID, MVC
-- Ruby, Rails, Javascript, Node.js
+- Ruby, Rails, JavaScript, Node.js
 - Rspec, Jasmine, Mocha, Chai, Sinon
 
 #### Imperial College Business School (Jun '14 - Aug '14)
@@ -73,7 +73,7 @@ Name | Description | Technologies
 ## Experience
 
 ### **Innovation Forum (Dec '14 - Dec '15)**
-The Innovation Forum aims to bridge the gap between academia, industry and the public sector to accelerate the speed of technology adoption for the benefit of the wider society. 
+[Innovation Forum](http://inno-forum.org) aims to bridge the gap between academia, industry and the public sector to accelerate the speed of technology adoption for the benefit of the wider society. 
 #### *Finance director* at ICIF (Imperial College Innovation Forum), duties involved:
 - Contacting potential speakers to present at the events
 - Organising venues for events of about 100 - 150 people
