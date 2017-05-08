@@ -36,14 +36,23 @@ For my final project at MA, I took part in building an Alexa skill for the Amazo
 - Languages: Arabic (native), English (fluent), French (intermediate).
 - Adobe Photoshop
 
+## Projects
+
+Name | Description | Technologies
+---- | ----------- | ------------
+[Quizbot](https://github.com/Noora-q/quizbot-alexa) | A maths quiz app for the Amazon echo and collaborated witha company by sending the quiz results to their API for progress tracking. | JavaScript, Node.js, AWS Lambda, Bespoken Tools, Alexa SDK, Mocha, Chai, Sinon, Request
+[EXHAUST-ED ](https://github.com/Noora-q/EXHAUST-ED) | A racing, obstacle-dodging arcade game. | JavaScript, Jasmin, JQuery, HTML 5, CSS, Adobe Photoshop
+
 ## Education
 
 #### Makers Academy (Feb '17 - May '17)
 - 12 week intensive bootcamp
 - Learning to learn
-- Using only best practices
-- OOP, TDD, SOLID, MVC, DDD
-- Ruby, Rails, Javascript, Node.js, Alexa Skills Kit
+- XP values
+- Pair programming
+- Agile practice
+- OOP, TDD, SOLID, MVC
+- Ruby, Rails, Javascript, Node.js
 - Rspec, Jasmine, Mocha, Chai, Sinon
 
 #### Imperial College Business School (Jun '14 - Aug '14)
