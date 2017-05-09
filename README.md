@@ -22,7 +22,7 @@ I'm confident in working on my own but I also greatly appreciate the value of wo
 -	Communicated my ideas effectively 
 - Worked well as a team because of giving/receiving constant feedback 
 -	Completed the game on time along with extensive testing
--	Our coach was impressed by the end result and how we achieved a extensively tested functional super fun obstacle-dodging car racing game
+-	Our coach was impressed by the end result and how we achieved a extensively tested, functional, super fun, obstacle-dodging car racing game within a reduced timeframe
 
 #### Attention to detail
 
